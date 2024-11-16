@@ -11,6 +11,6 @@ Jackson Amirthalingam - 40249183<br>
  UML Package Diagram (Jackson)<br>
  System Sequence Diagrams (Alexandre, Jackson)<br>
  Operation Contracts (Alexandre)<br>
- Interaction Diagrams (Success - Alexandre, Failure - Jackson)<br>
+ Interaction Diagrams (Success - Alexandre, Failures - Jackson)<br>
  Relational Data Model (Alexandre)<br>
  OCL Expressions (Alxeandre)<br>
