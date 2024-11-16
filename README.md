@@ -2,15 +2,15 @@
 Demo video: https://youtu.be/81yKtQhZtiw
 
  ## Team Members
-Alexandre Vallières - 40157223
-Jackson Amirthalingam - 40249183
+Alexandre Vallières - 40157223<br>
+Jackson Amirthalingam - 40249183<br>
  
  ## Requirements
- UML Domain Model (Jackson)
- UML Class Diagram (Alexandre)
- UML Package Diagram (Jackson)
- System Sequence Diagrams (Alexandre, Jackson)
- Operation Contracts (Alexandre)
- Interaction Diagrams (Success - Alexandre, Failure - Jackson)
- Relational Data Model (Alexandre)
- OCL Expressions (Alxeandre)
+ UML Domain Model (Jackson)<br>
+ UML Class Diagram (Alexandre)<br>
+ UML Package Diagram (Jackson)<br>
+ System Sequence Diagrams (Alexandre, Jackson)<br>
+ Operation Contracts (Alexandre)<br>
+ Interaction Diagrams (Success - Alexandre, Failure - Jackson)<br>
+ Relational Data Model (Alexandre)<br>
+ OCL Expressions (Alxeandre)<br>
